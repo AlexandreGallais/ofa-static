@@ -1,1 +1,1 @@
-# ofa-static
+# One For All - Static
